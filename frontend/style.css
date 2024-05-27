@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#editor {
+  margin: 20px;
+}
+
+#diagram {
+  border: 1px solid #ccc;
+  height: 500px;
+  margin-top: 10px;
+  position: relative;
+}
+
+.class-box {
+  border: 1px solid #000;
+  padding: 10px;
+  position: absolute;
+  background-color: #fff;
+  cursor: move;
+}
